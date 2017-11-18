@@ -1,4 +1,4 @@
-# reproduce-research
+# Reproducing my research
 This repo contains the necessary information (or scripts) to reproduce the results in most of my research papers. Note that the results have shown in the paper may be different on your systems due the differences of hardware, OS...etc.
 
 # Prerequisites
@@ -6,6 +6,7 @@ This repo contains the necessary information (or scripts) to reproduce the resul
 * MVAPICH2-GDR >= 2.3a, http://mvapich.cse.ohio-state.edu/
 * (Optional) (Highly recommended) GDRCOPY module, https://github.com/NVIDIA/gdrcopy
 
+# Reference
 Will be having information of following papers.
 
 1. Ching-Hsiang Chu, Xiaoyi Lu, Ammar Ahmad Awan, Hari Subramoni, Jahanzeb Hashmi, Bracy Elton and Dhabaleswar Panda, "Efficient and Scalable Multi-Source Streaming Broadcast on GPU Clusters for Deep Learning, " The 46th International Conference on Parallel Processing (ICPP 2017), Bristol, UK, Aug 14-17, 2017. 
