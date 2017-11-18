@@ -1,5 +1,10 @@
 # reproduce-research
-This repo contains the necessary information to reproduce the results in most of my research papers. Note that the results have shown in the paper may be different on your systems due the differences of hardware, OS...etc.
+This repo contains the necessary information (or scripts) to reproduce the results in most of my research papers. Note that the results have shown in the paper may be different on your systems due the differences of hardware, OS...etc.
+
+# Prerequisites
+* NVIDIA GPUDirect RDMA, https://developer.nvidia.com/gpudirect
+* MVAPICH2-GDR >= 2.3a, http://mvapich.cse.ohio-state.edu/
+* (Optional) (Highly recommended) GDRCOPY module, https://github.com/NVIDIA/gdrcopy
 
 Will be having information of following papers.
 
